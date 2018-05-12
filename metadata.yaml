@@ -1,0 +1,37 @@
+_repo: Egmont--Viisin-yt-ksinen-murhen-ytelm-_37312
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Räihä, Antti
+    alias: Raiha, Antti
+    gutenberg_agent_id: '38766'
+    url: http://www.gutenberg.org/2009/agents/38766
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Goethe, Johann Wolfgang von
+    aliases:
+    - Goethe, J. W. (Johann Wolfgang)
+    - Von Goethe, Johann Wolfgang
+    birthdate: 1749
+    deathdate: 1832
+    gutenberg_agent_id: '586'
+    url: http://www.gutenberg.org/2009/agents/586
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+description: ''
+gutenberg_issued: '2011-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37312'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Egmont, Lamoraal, Graaf van, 1522-1568 -- Drama'
+- !lcsh 'Tragedies'
+- !lcc 'PT'
+title: 'Egmont: Viisinäytöksinen murhenäytelmä'
+url: http://www.gutenberg.org/ebooks/37312
